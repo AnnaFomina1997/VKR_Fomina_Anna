@@ -25,6 +25,10 @@
 - папка static
 - папка templates
 - файл main.py
+2 Файл с общим кодом ВКР
+-VKR_Fomina.ipynb
+3 LICENSE
+4 README.md
 
 
 ###  Инструкцию использования приложения
