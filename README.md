@@ -25,6 +25,7 @@
 - папка static
 - папка templates
 - файл main.py
+
 2 Файл с общим кодом ВКР
 -VKR_Fomina.ipynb
 
